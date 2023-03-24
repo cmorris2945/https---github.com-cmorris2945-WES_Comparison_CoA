@@ -1,0 +1,35 @@
+{   
+    "wes_compare.workflow_dnanexusnormal" : "/home/pnatarajan/RESEARCH/CROMWELL/WES/DNANEXUS_SL426871.trimming.stats.txt",
+    "wes_compare.workflow_cromwellnormal" : "/home/pnatarajan/RESEARCH/CROMWELL/WES/DNANEXUS_SL426871.trimming.stats.txt",
+    "wes_compare.workflow_sampleIdnormal" : "FT-SA131757",
+    "wes_compare.workflow_dnanexustumor" : "/home/pnatarajan/RESEARCH/CROMWELL/WES/DNANEXUS_SL426871.trimming.stats.txt",
+    "wes_compare.workflow_cromwelltumor" : "/home/pnatarajan/RESEARCH/CROMWELL/WES/DNANEXUS_SL426871.trimming.stats.txt",
+    "wes_compare.workflow_sampleIdtumor" : "FT-SA130938D",
+    
+    "wes_compare.workflow_nexusbamhsnormal" : "/home/pnatarajan/RESEARCH/CROMWELL/WES_BAM/DNA_NEXUS_SL426871_st_g_markdup_HsMetrics.txt",
+    "wes_compare.workflow_nexusbamalignnormal" : "/home/pnatarajan/RESEARCH/CROMWELL/WES_BAM/DNA_NEXUS_SL426871_st_g_markdup_HsMetrics.txt",
+    "wes_compare.workflow_nexusbamdupnormal" : "/home/pnatarajan/RESEARCH/CROMWELL/WES_BAM/DNA_NEXUS_SL426871_st_g_markdup_HsMetrics.txt",
+    "wes_compare.workflow_nexusbamisnormal" : "/home/pnatarajan/RESEARCH/CROMWELL/WES_BAM/DNA_NEXUS_SL426871_st_g_markdup_HsMetrics.txt",
+    
+    "wes_compare.workflow_crombamhsnormal" : "/home/pnatarajan/RESEARCH/CROMWELL/WES_BAM/CROMWELL_SL426871_st_g_markdup_HsMetrics.txt",
+    "wes_compare.workflow_crombamalignnormal" : "/home/pnatarajan/RESEARCH/CROMWELL/WES_BAM/CROMWELL_SL426871_st_g_markdup_HsMetrics.txt",
+    "wes_compare.workflow_crombamdupnormal" : "/home/pnatarajan/RESEARCH/CROMWELL/WES_BAM/CROMWELL_SL426871_st_g_markdup_HsMetrics.txt",
+    "wes_compare.workflow_crombamisnormal" : "/home/pnatarajan/RESEARCH/CROMWELL/WES_BAM/CROMWELL_SL426871_st_g_markdup_HsMetrics.txt",
+    
+   "wes_compare.workflow_nexusbamhstumor" : "/home/pnatarajan/RESEARCH/CROMWELL/WES_BAM/DNA_NEXUS_SL426871_st_g_markdup_HsMetrics.txt",
+    "wes_compare.workflow_nexusbamaligntumor" : "/home/pnatarajan/RESEARCH/CROMWELL/WES_BAM/DNA_NEXUS_SL426871_st_g_markdup_HsMetrics.txt",
+    "wes_compare.workflow_nexusbamduptumor" : "/home/pnatarajan/RESEARCH/CROMWELL/WES_BAM/DNA_NEXUS_SL426871_st_g_markdup_HsMetrics.txt",
+    "wes_compare.workflow_nexusbamistumor" : "/home/pnatarajan/RESEARCH/CROMWELL/WES_BAM/DNA_NEXUS_SL426871_st_g_markdup_HsMetrics.txt",
+    
+    "wes_compare.workflow_crombamhstumor" : "/home/pnatarajan/RESEARCH/CROMWELL/WES_BAM/CROMWELL_SL426871_st_g_markdup_HsMetrics.txt",
+    "wes_compare.workflow_crombamaligntumor" : "/home/pnatarajan/RESEARCH/CROMWELL/WES_BAM/CROMWELL_SL426871_st_g_markdup_HsMetrics.txt",
+    "wes_compare.workflow_crombamduptumor" : "/home/pnatarajan/RESEARCH/CROMWELL/WES_BAM/CROMWELL_SL426871_st_g_markdup_HsMetrics.txt",
+    "wes_compare.workflow_crombamistumor" : "/home/pnatarajan/RESEARCH/CROMWELL/WES_BAM/CROMWELL_SL426871_st_g_markdup_HsMetrics.txt",
+    
+              	 
+    "wes_compare.trimcompare.dockerImage" : "ubuntu:20.04",
+    "wes_compare.bamcompare.dockerImage" : "bladerunner26354/wes_bamcompare_image:latest",
+    "wes_compare.bamcompare.bamcompareCmd" : "python /app/wes_bamcompare.py"
+    
+}
+
